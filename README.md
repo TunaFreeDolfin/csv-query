@@ -1,4 +1,4 @@
-With Python 2.7.8 installed, run the following commands
+With Python 2.7.8 installed, cline this repo locally run the following commands:
 
 ```
 pip install virtualenv
